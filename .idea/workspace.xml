@@ -4,26 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f149fdd0-e937-4bcd-9b67-4ecdcc3c5656" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/ch02/format01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/format_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/inch_to_cm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/input_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/int_convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/int_float01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/int_float02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/string_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/string_operator01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/string_operator02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/variable.py" afterDir="false" />
+    <list default="true" id="f149fdd0-e937-4bcd-9b67-4ecdcc3c5656" name="변경" comment="ch02">
+      <change afterPath="$PROJECT_DIR$/ch03/boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/condition2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/date01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/date02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/date03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/false_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/pass_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/pass_keyword01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +63,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.boolean.executor": "Run",
+    "Python.condition.executor": "Run",
+    "Python.date.executor": "Run",
+    "Python.date01.executor": "Run",
+    "Python.date02.executor": "Run",
+    "Python.date03.executor": "Run",
     "Python.format01.executor": "Run",
     "Python.format03.executor": "Run",
     "Python.format04.executor": "Run",
     "Python.format05.executor": "Run",
     "Python.format06.executor": "Run",
+    "Python.format07.executor": "Run",
     "Python.format_basic.executor": "Run",
     "Python.inch_to_cm.executor": "Run",
     "Python.input.executor": "Run",
@@ -79,6 +83,7 @@
     "Python.int_float02.executor": "Run",
     "Python.main.executor": "Run",
     "Python.output.executor": "Run",
+    "Python.pass_keyword.executor": "Run",
     "Python.str.executor": "Run",
     "Python.string_operator.executor": "Run",
     "Python.string_operator01.executor": "Run",
@@ -91,8 +96,8 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.format07">
-    <configuration name="format03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pass_keyword01">
+    <configuration name="date01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02/format03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03/date01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="format04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="date02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02/format04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03/date02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="format05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="date03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,55 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02/format05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="format06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02/format06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="format07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02/format07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03/date03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,13 +185,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pass_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03/pass_keyword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pass_keyword01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03/pass_keyword01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.format07" />
-        <item itemvalue="Python.format06" />
-        <item itemvalue="Python.format05" />
-        <item itemvalue="Python.format04" />
-        <item itemvalue="Python.format03" />
+        <item itemvalue="Python.pass_keyword01" />
+        <item itemvalue="Python.pass_keyword" />
+        <item itemvalue="Python.date03" />
+        <item itemvalue="Python.date02" />
+        <item itemvalue="Python.date01" />
       </list>
     </recent_temporary>
   </component>
@@ -250,6 +255,19 @@
       <option name="presentableId" value="Default" />
       <updated>1741165771479</updated>
     </task>
+    <task id="LOCAL-00001" summary="ch02">
+      <option name="closed" value="true" />
+      <created>1741170169849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741170169849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ch02" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch02" />
   </component>
 </project>
