@@ -4,42 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f149fdd0-e937-4bcd-9b67-4ecdcc3c5656" name="변경" comment="'ch03'">
-      <change afterPath="$PROJECT_DIR$/ch04/2dlist01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/2dlist02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/array_comprehensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/break01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/dict01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/dict02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/for_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/for_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/for_list01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/for_pyramid01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/for_pyramid02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/for_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/get01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/if_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/if_string01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/if_string02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/infinite_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/key_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/list01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/list02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/list03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/list_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/list_range01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/reversed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/reversed_for01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/reversed_for02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/string01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/string02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/string03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/while_as_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/while_with_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/while_with_time.py" afterDir="false" />
+    <list default="true" id="f149fdd0-e937-4bcd-9b67-4ecdcc3c5656" name="변경" comment="'ch04'">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/call_with_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/default_param.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/factorial_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/factorial_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/fibonacci_memo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/fibonacci_recursion01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/fibonacci_recursion02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/fibonacci_recursion03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/file_open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/file_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/file_readlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/file_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/fun_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/func_as_keyparam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/func_as_param.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/generator01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/lambda01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/lambda02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/list_flatten01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/list_flatten02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/param_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/param_keyword01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/return_none.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/return_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/return_with_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/sum_all_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/sum_all_with_default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/tuple_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/tuple_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/tuple_use01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/tuple_use02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/variable_param.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,19 +81,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python 테스트..executor": "Run",
+    "Python 테스트.generator.py 내 Python 테스트.executor": "Run",
+    "Python 테스트.tuple_return.py 내 Python 테스트.executor": "Run",
     "Python.2dlist01.executor": "Run",
     "Python.2dlist02.executor": "Run",
     "Python.array_comprehensions.executor": "Run",
     "Python.boolean.executor": "Run",
     "Python.break01.executor": "Run",
+    "Python.call_with_func.executor": "Run",
     "Python.condition.executor": "Run",
     "Python.date.executor": "Run",
     "Python.date01.executor": "Run",
     "Python.date02.executor": "Run",
     "Python.date03.executor": "Run",
+    "Python.default_param.executor": "Run",
     "Python.dict01.executor": "Run",
     "Python.dict02.executor": "Run",
     "Python.enumerate.executor": "Run",
+    "Python.factorial_for.executor": "Run",
+    "Python.factorial_recursion.executor": "Run",
+    "Python.fibonacci_memo.executor": "Run",
+    "Python.fibonacci_recursion01.executor": "Run",
+    "Python.fibonacci_recursion02.executor": "Run",
+    "Python.fibonacci_recursion03.executor": "Run",
+    "Python.file_open.executor": "Run",
+    "Python.file_read.executor": "Run",
+    "Python.file_readlines.executor": "Run",
+    "Python.file_write.executor": "Run",
     "Python.for_dict.executor": "Run",
     "Python.for_list.executor": "Run",
     "Python.for_list01.executor": "Run",
@@ -108,6 +122,11 @@
     "Python.format06.executor": "Run",
     "Python.format07.executor": "Run",
     "Python.format_basic.executor": "Run",
+    "Python.fun_basic.executor": "Run",
+    "Python.func_as_keyparam.executor": "Run",
+    "Python.func_as_param.executor": "Run",
+    "Python.generator.executor": "Run",
+    "Python.generator01.executor": "Run",
     "Python.if_string.executor": "Run",
     "Python.if_string02.executor": "Run",
     "Python.inch_to_cm.executor": "Run",
@@ -117,36 +136,75 @@
     "Python.int_float01.executor": "Run",
     "Python.int_float02.executor": "Run",
     "Python.items.executor": "Run",
+    "Python.iterator01.executor": "Run",
+    "Python.lambda01.executor": "Run",
+    "Python.lambda02.executor": "Run",
     "Python.list01.executor": "Run",
     "Python.list02.executor": "Run",
     "Python.list03.executor": "Run",
+    "Python.list_flatten01.executor": "Run",
+    "Python.list_flatten02.executor": "Run",
     "Python.list_in.executor": "Run",
     "Python.list_range01.executor": "Run",
     "Python.main.executor": "Run",
     "Python.output.executor": "Run",
+    "Python.param_basic.executor": "Run",
+    "Python.param_keyword01.executor": "Run",
     "Python.pass_keyword.executor": "Run",
     "Python.pass_keyword01.executor": "Run",
+    "Python.return_none.executor": "Run",
+    "Python.return_only.executor": "Run",
+    "Python.return_with_data.executor": "Run",
     "Python.reversed.executor": "Run",
     "Python.reversed_for01.executor": "Run",
     "Python.reversed_for02.executor": "Run",
     "Python.str.executor": "Run",
     "Python.string01.executor": "Run",
     "Python.string02.executor": "Run",
+    "Python.string03.executor": "Run",
     "Python.string_operator.executor": "Run",
     "Python.string_operator01.executor": "Run",
     "Python.string_operator02.executor": "Run",
+    "Python.sum_all_basic.executor": "Run",
+    "Python.sum_all_with_default.executor": "Run",
+    "Python.tuple_basic.executor": "Run",
+    "Python.tuple_return.executor": "Run",
+    "Python.tuple_use01.executor": "Run",
+    "Python.tuple_use02.executor": "Run",
     "Python.variable.executor": "Run",
+    "Python.variable_param.executor": "Run",
     "Python.while_as_for.executor": "Run",
     "Python.while_with_time.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/202-25/Downloads/SoraPython",
+    "last_opened_file_path": "C:/Users/202-25/Downloads/SoraPython/ch05",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.iterator01">
-    <configuration name="if_string02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\202-25\Downloads\SoraPython\ch05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lambda04">
+    <configuration type="tests" factoryName="Autodetect">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch05/generator01.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="func_as_keyparam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/if_string02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/func_as_keyparam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iterator01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +235,77 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/iterator01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generator01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/generator01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/lambda03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/lambda04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,79 +336,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/string01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="string02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/string02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="string03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/string03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.iterator01" />
-        <item itemvalue="Python.string03" />
-        <item itemvalue="Python.string02" />
-        <item itemvalue="Python.string01" />
-        <item itemvalue="Python.if_string02" />
+        <item itemvalue="Python.lambda04" />
+        <item itemvalue="Python.lambda03" />
+        <item itemvalue="Python.func_as_keyparam" />
+        <item itemvalue="Python.generator01" />
+        <item itemvalue="Python.generator" />
       </list>
     </recent_temporary>
   </component>
@@ -320,12 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741252917601</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="'ch04'">
+      <option name="closed" value="true" />
+      <created>1741256172089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741256172089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch02" />
     <MESSAGE value="'ch03'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'ch03'" />
+    <MESSAGE value="'ch04'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'ch04'" />
   </component>
 </project>
