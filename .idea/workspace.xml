@@ -4,22 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f149fdd0-e937-4bcd-9b67-4ecdcc3c5656" name="변경" comment="'ch05'">
-      <change afterPath="$PROJECT_DIR$/ch06/except01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/except02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/except_multi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/file_closed01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/file_closed02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/file_closed03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/file_closed04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/finally_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/handle_with_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/handle_with_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/try_except_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/try_except_else_finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/try_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/try_return01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/try_return02.py" afterDir="false" />
+    <list default="true" id="f149fdd0-e937-4bcd-9b67-4ecdcc3c5656" name="변경" comment="'ch06'">
+      <change afterPath="$PROJECT_DIR$/ch07/beautiful_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/beautiful_weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/flask_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/func_deco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_basic/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_basic/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_datetime_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_example/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_example/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_main/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_main/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_package/module_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_package/module_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_sys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/module_urllib.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,12 +67,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python 테스트..executor": "Run",
+    "Python 테스트.func_deco.py 내 Python 테스트.executor": "Run",
     "Python 테스트.generator.py 내 Python 테스트.executor": "Run",
+    "Python 테스트.test_module.py 내 Python 테스트.executor": "Run",
     "Python 테스트.try_return01.test의 Python 테스트.executor": "Run",
     "Python 테스트.tuple_return.py 내 Python 테스트.executor": "Run",
     "Python.2dlist01.executor": "Run",
     "Python.2dlist02.executor": "Run",
     "Python.array_comprehensions.executor": "Run",
+    "Python.beautiful_flask.executor": "Run",
+    "Python.beautiful_weather.executor": "Run",
     "Python.boolean.executor": "Run",
     "Python.break01.executor": "Run",
     "Python.call_with_func.executor": "Run",
@@ -83,6 +91,9 @@
     "Python.enumerate.executor": "Run",
     "Python.except01.executor": "Run",
     "Python.except02.executor": "Run",
+    "Python.except03.executor": "Run",
+    "Python.except_all.executor": "Run",
+    "Python.except_multi.executor": "Run",
     "Python.factorial_for.executor": "Run",
     "Python.factorial_recursion.executor": "Run",
     "Python.fibonacci_memo.executor": "Run",
@@ -98,6 +109,7 @@
     "Python.file_readlines.executor": "Run",
     "Python.file_write.executor": "Run",
     "Python.finally_loop.executor": "Run",
+    "Python.flask_basic.executor": "Run",
     "Python.for_dict.executor": "Run",
     "Python.for_list.executor": "Run",
     "Python.for_list01.executor": "Run",
@@ -114,6 +126,7 @@
     "Python.fun_basic.executor": "Run",
     "Python.func_as_keyparam.executor": "Run",
     "Python.func_as_param.executor": "Run",
+    "Python.func_deco.executor": "Run",
     "Python.generator.executor": "Run",
     "Python.generator01.executor": "Run",
     "Python.handle_with_condition.executor": "Run",
@@ -139,7 +152,17 @@
     "Python.list_flatten02.executor": "Run",
     "Python.list_in.executor": "Run",
     "Python.list_range01.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.module_datetime.executor": "Run",
+    "Python.module_datetime_add.executor": "Run",
+    "Python.module_os.executor": "Run",
+    "Python.module_random.executor": "Run",
+    "Python.module_sys.executor": "Run",
+    "Python.module_time.executor": "Run",
+    "Python.module_urllib.executor": "Run",
     "Python.output.executor": "Run",
     "Python.param_basic.executor": "Run",
     "Python.param_keyword01.executor": "Run",
@@ -186,7 +209,7 @@
       <recent name="C:\Users\202-25\Downloads\SoraPython\ch05" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.except_all">
+  <component name="RunManager" selected="Python.binary_download">
     <configuration type="tests" factoryName="Autodetect">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
@@ -202,7 +225,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="except01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="binary_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/except01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch07/binary_download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="except02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch07/module_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/except02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch07/module_example/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="except03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoraPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,55 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch07/module_package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/except03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="except_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/except_all.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="except_multi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoraPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/except_multi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch07/module_package/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,13 +313,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch07/module_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch07/module_package/main_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_module.py 내 Python 테스트" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SoraPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch07/module_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch07/module_example/test_module.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.except_all" />
-        <item itemvalue="Python.except03" />
-        <item itemvalue="Python.except_multi" />
-        <item itemvalue="Python.except02" />
-        <item itemvalue="Python.except01" />
+        <item itemvalue="Python.binary_download" />
+        <item itemvalue="Python.main_1" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python 테스트.test_module.py 내 Python 테스트" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741773512358</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="'ch06'">
+      <option name="closed" value="true" />
+      <created>1741858206724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741858206724</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,6 +440,7 @@
     <MESSAGE value="'ch03'" />
     <MESSAGE value="'ch04'" />
     <MESSAGE value="'ch05'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'ch05'" />
+    <MESSAGE value="'ch06'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'ch06'" />
   </component>
 </project>
